@@ -1,6 +1,6 @@
 🛠️ Tech Stack
 
-/////////////////////////////////////////////
+
 
 💻 Languages
 
@@ -8,7 +8,7 @@
 <img width="98" height="28" alt="Image" src="https://github.com/user-attachments/assets/07b53b00-3119-46fa-bdeb-4b0be4c7e536" />
 <img width="69" height="28" alt="Image" src="https://github.com/user-attachments/assets/d0841762-6c53-4ec3-b3ff-fe4d904bbfe6" />
 
-/////////////////////////////////////////////
+
 
 ⚙️ Other
 
